@@ -1,0 +1,12 @@
+
+.red-color {
+  color: red;
+}
+
+p {
+  color: blue !important;
+}
+
+#my-section {
+  color: greenyellow;
+}
